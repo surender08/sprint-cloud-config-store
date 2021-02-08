@@ -1,8 +1,0 @@
-report:
-  export:
-    type: pdf,doc
-  border: 1
-  page:
-    color: white
-    size: A4
-duration: winters
