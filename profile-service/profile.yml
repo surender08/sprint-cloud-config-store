@@ -3,7 +3,7 @@ server:
   
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/profiledb?CreateDatabaseIfNotExist=True
+    url: jdbc:mysql://localhost:3306/profiledb?createDatabaseIfNotExist=True
     username: root
     password: root@123
     driver-class-name: com.mysql.cj.jdbc.Driver
