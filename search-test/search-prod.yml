@@ -1,6 +1,6 @@
 search:
  result:
-  perpage: 200
+  perpage: 2000
  canexport: true
  render: false
 duration: summers
